@@ -33,5 +33,5 @@ Sistema de delivery desenvolvido com Spring Boot e Java 21.
 - Profile: development
 
 ## 👨‍💻 Desenvolvedor
-Regina Reis - Arquitetura de Sistemas Turma 01  
+Regina Reis - Arquitetura de Sistemas - Turma 01  
 Desenvolvido com JDK 21 e Spring Boot 3.2.x
